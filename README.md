@@ -7,5 +7,3 @@ Today, in order to simulate DDoS attacks, we will create a Load Testing using Ba
 
 - In the Linux terminal, create a script file called ddostest.sh. Then paste the bash script code below into it on your local PC.
 
-Note: Replace the website address below “http://cmakkaya-test-ALB-for-WAF-173332589.us-east-1.elb.amazonaws.com/” with your own website address or Load Balancer’s endpoint where we are going to run the load testing.
-
